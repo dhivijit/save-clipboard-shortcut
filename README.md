@@ -1,8 +1,10 @@
 # Save Clipboard using Shortcuts
 
-This is a shortcut which lets you save your clipboard to the note in the notes app
+This is a shortcut which lets you save your clipboard to the note in the notes app. You can save most of the types of formats from your clipboard.
 
-> You can save the shortcut to your device using the file on the [releases](https://github.com/dhivijit/save-clipboard-shortcut/releases/tag/main) page or via the [iCloud link](https://www.icloud.com/shortcuts/fb8348d9f487425f8e6894b857822d87), I suggest to save the shortcut using the file
+> You can save the shortcut to your device using the file on the [releases](https://github.com/dhivijit/save-clipboard-shortcut/releases/tag/main) page or via the [iCloud link](https://www.icloud.com/shortcuts/fb8348d9f487425f8e6894b857822d87), I suggest to save the shortcut using the file.
+> 
+> You require iOS 15 or greater to add the shortcut using the file
 
 ---
 ## Running the shortcut
